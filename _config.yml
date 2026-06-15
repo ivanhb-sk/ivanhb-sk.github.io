@@ -1,0 +1,17 @@
+title: Ivan H.
+description: Visual & Motion Designer — pixels with purpose.
+url: "https://ivanhurba.github.io"
+baseurl: ""
+
+markdown: kramdown
+permalink: pretty
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+author:
+  name: Ivan H.
+  location: Bratislava, Slovakia
+  linkedin: https://www.linkedin.com/in/ivanhurba/
