@@ -238,8 +238,7 @@ main > h3 + p + p {
   color: var(--ba-text-muted);
   font-size: 1.125rem;
   margin: 0 0 2rem;
-  padding-bottom: 2rem;
-  border-bottom: 2px solid var(--ba-border);
+  
 }
 
 main > h3:last-of-type + p + p {
