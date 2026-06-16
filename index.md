@@ -3,69 +3,97 @@ layout: default
 title: Home
 ---
 
-<div class="hero">
-  <h1>Visual & motion designer</h1>
-  <p class="tagline">Pixels with purpose. Motion, video, UX, and brand communications for teams that care about craft.</p>
-  <span class="role">B2B Communications Executive · British Airways</span>
-</div>
+# Ivan Hurtado
 
-<section class="about">
-  <h2>About</h2>
-  <p>I'm a visual designer who loves motion, video, and UX. I like testing limits, learning from what breaks, and helping teammates feel comfortable knowing they have someone to ask.</p>
-  <p>Based in Bratislava, Slovakia — native Spanish speaker, fluent in English, professional Slovak.</p>
-</section>
+Pixels with purpose. Motion, video, UX, and brand communications for teams that care about craft.
 
-<section>
-  <h2>Tools & skills</h2>
-  <ul class="skills">
-    <li>Adobe Creative Suite</li>
-    <li>Adobe Experience Manager</li>
-    <li>After Effects</li>
-    <li>Premiere Pro</li>
-    <li>Photoshop</li>
-    <li>Illustrator</li>
-    <li>Figma</li>
-    <li>Motion design</li>
-    <li>Video editing</li>
-    <li>UX & accessibility</li>
-    <li>Brand communications</li>
-    <li>PowerPoint</li>
-  </ul>
-</section>
+Visual & motion designer / Digital Project Owner
 
-<section>
-  <h2>Experience</h2>
-  <ul class="timeline">
-    <li>
-      <h3>B2B Communications Executive</h3>
-      <p class="meta">British Airways · Jun 2022 – Present · Bratislava</p>
-      <p>Design and deliver external communications for travel partners — business updates, product news, trade materials, and platform content. Lead development of the Travel Partner Connect feedback form to accessibility standards. Collaborate with Adobe and internal developers to improve the partner portal.</p>
-    </li>
-    <li>
-      <h3>Visual Designer</h3>
-      <p class="meta">Amazon · Jan 2019 – Jan 2022 · Bratislava</p>
-      <p>Created high-impact retail campaign assets — banners, landing pages, Kindle units, and motion WakeScreens for Fire devices. Partnered with cross-functional teams on wireframes, mockups, and client presentations.</p>
-    </li>
-    <li>
-      <h3>VCM Finance Operation Analyst</h3>
-      <p class="meta">Amazon · Jan 2017 – Jan 2019 · Bratislava</p>
-      <p>Accounts payable and receivable, vendor finance resolution, SME for catalog cases, and process improvements adopted across three sites.</p>
-    </li>
-    <li>
-      <h3>Commercial Marketing Specialist</h3>
-      <p class="meta">HURPE C.B. · Jan 2012 – Jan 2017 · Granada, Spain</p>
-      <p>Managed online listings, client relationships, graphic design for presentations, photography, and video — optimizing marketing spend along the way.</p>
-    </li>
-  </ul>
-</section>
+## About
 
-<section>
-  <h2>Education</h2>
-  <ul class="timeline">
-    <li>
-      <h3>Diplomatura — Screenwriting for Film, TV & Theatre</h3>
-      <p class="meta">TAI Madrid · 2001 – 2003</p>
-      <p>Video and 16mm production practice, short-film screenwriting, and a final feature-length screenplay project.</p>
-    </li>
-  </ul>
-</section>
+I'm a visual designer who loves motion, video, UX and now Digital Project Owner bridging the gap between global stakeholders, cross-functional engineering teams, and high-traffic enterprise platforms. I like testing limits, learning from what breaks, and helping teammates feel comfortable knowing they have someone to ask.
+
+Based in Bratislava, Slovakia — native Spanish speaker, fluent in English, professional Slovak.
+
+## Tools & skills
+
+- Adobe Creative Suite
+- Adobe Experience Manager
+- After Effects
+- Premiere Pro
+- Photoshop
+- Illustrator
+- Figma
+- Motion design
+- Video editing
+- UX & accessibility
+- Brand communications
+- PowerPoint
+
+## Experience
+
+-
+
+### B2B Communications Executive
+
+British Airways · Jun 2022 – Present · Bratislava
+
+I collaborate closely with sales teams and key accounts to support their marketing and communication needs, ensuring consistency and alignment with British Airways' branding and messaging.  
+  
+I also design and deliver a range of external communications, including business updates, product and service news, tactical activities, and trade materials, using tools like Adobe Creative Suite (Photoshop, Illustrator, Premiere Pro), Microsoft Powerpoint and Figma.  
+  
+I lead the development and implementation of British Airways’ Travel Partner Connect feedback form, adhering to rigorous accessibility standards, ensuring a seamless user experience for all stakeholders.  
+  
+I manage and maintain content updates for the British Airways Travel Partner Connect portal, improving usability and ensuring up-to-date, relevant information is available to travel partners.  
+  
+I liaise with the Adobe team and internal developers, to continuously enhance the Travel Partner Connect platform, integrating feedback from travel agents and product owners to drive platform improvements and design.
+
+-
+
+### Visual Designer
+
+Amazon · 2019 – 2022 · Bratislava
+
+I led the design of high-impact creative assets for Amazon’s online retail campaigns, including banners, landing pages, Kindle units, and motion WakeScreens for Fire devices, driving engagement and elevating customer experience.
+
+Leveraged Adobe Creative Suite (Photoshop, Illustrator, After Effects) and tools like Sketch and Figma to deliver dynamic, visually compelling content across various digital platforms.
+
+Collaborated with cross-functional teams to develop pre-sale wireframes, mockups, and PowerPoint presentations, contributing to successful pitches and client presentations.
+
+Improved internal processes by developing strategies to streamline workflows and enhance team responsiveness, resulting in faster turnaround times and consistently high-quality outputs.
+
+Maintained Amazon's rigorous standards, ensuring all creative assets met top-tier customer-centric guidelines, contributing to a seamless user experience.
+
+-
+
+###  VCM Finance Operation Analyst
+
+Amazon · 2017 – 2019 · Bratislava
+
+I worked in FINOPS team as Accounts Payable and Receivable functions, resolving vendor finance issues related to accounts, provisions, credit notes, and invoices, ensuring accurate and timely payment processes.
+
+I got certified as a Specialty Mentor, leading training initiatives to improve team expertise and performance in financial operations.
+
+I developed and implemented a new operational procedure, adopted across three company sites, improving efficiency and consistency in financial workflows.
+
+I served as a Subject Matter Expert (SME) for catalog-related cases, supporting colleagues in resolving vendor issues with product listings, ensuring accuracy and compliance with company policies.
+
+I collaborated with the catalog team to address vendor product and catalog issues, ensuring seamless updates and process improvements.
+
+-
+
+###  Previous jobs
+
+Commercial Marketing Specialist - HURPE C.B. · Full-time 2012 - 2017 · 5 yrs Granada, Spain
+Mondelēz International logo Accounts payable - Mondelēz International Full time 2011 - 2012 · 1 yr Bratislava, Slovak Republic
+Accounts Payable - Northgate I.S. Full time Jun 2009 - May 2010 · 1 yr Granada, Spain
+
+## Education
+
+-
+
+### Diplomatura — Screenwriting for Film, TV & Theatre
+
+TAI Madrid · 2001 – 2003
+
+Video and 16mm production practice, short-film screenwriting, and a final feature-length screenplay project.
