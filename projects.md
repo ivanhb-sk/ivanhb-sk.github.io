@@ -8,12 +8,12 @@ permalink: /projects/
 
 A selection of design, motion, and communication work. More coming soon.
 
-Project images and case studies will be added here. Use this page as a template — duplicate a card below for each project.
+Project images and case studies will be added here.
 
 ### Project title
 
-Short description of the project, tools used, and what you want to highlight. Add a screenshot or GIF when ready.
+Short description of the project, tools used, and what I want to highlight. I'll Add a screenshot or GIF when ready.
 
 ### Another project
 
-Replace these placeholders with real work — motion pieces, campaign assets, portal UX, or personal experiments.
+I'll Replace these placeholders with real work — motion pieces, campaign assets, portal UX, or personal experiments.
