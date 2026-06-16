@@ -32,8 +32,6 @@ Based in Bratislava, Slovakia — native Spanish speaker, fluent in English, pro
 
 ## Experience
 
--
-
 ### B2B Communications Executive
 
 British Airways · Jun 2022 – Present · Bratislava
@@ -47,8 +45,6 @@ I lead the development and implementation of British Airways’ Travel Partner C
 I manage and maintain content updates for the British Airways Travel Partner Connect portal, improving usability and ensuring up-to-date, relevant information is available to travel partners.  
   
 I liaise with the Adobe team and internal developers, to continuously enhance the Travel Partner Connect platform, integrating feedback from travel agents and product owners to drive platform improvements and design.
-
--
 
 ### Visual Designer
 
@@ -64,8 +60,6 @@ Improved internal processes by developing strategies to streamline workflows and
 
 Maintained Amazon's rigorous standards, ensuring all creative assets met top-tier customer-centric guidelines, contributing to a seamless user experience.
 
--
-
 ###  VCM Finance Operation Analyst
 
 Amazon · 2017 – 2019 · Bratislava
@@ -80,8 +74,6 @@ I served as a Subject Matter Expert (SME) for catalog-related cases, supporting 
 
 I collaborated with the catalog team to address vendor product and catalog issues, ensuring seamless updates and process improvements.
 
--
-
 ###  Previous jobs
 
 Commercial Marketing Specialist - HURPE C.B. · Full-time 2012 - 2017 · 5 yrs Granada, Spain
@@ -89,8 +81,6 @@ Mondelēz International logo Accounts payable - Mondelēz International Full tim
 Accounts Payable - Northgate I.S. Full time Jun 2009 - May 2010 · 1 yr Granada, Spain
 
 ## Education
-
--
 
 ### Diplomatura — Screenwriting for Film, TV & Theatre
 

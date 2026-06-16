@@ -187,19 +187,6 @@ main > p:first-of-type {
   line-height: 1.35;
 }
 
-main > p:nth-of-type(2) {
-  display: inline-block;
-  padding: 0.5rem 0;
-  border-top: 2px solid var(--ba-border);
-  border-bottom: 2px solid var(--ba-border);
-  color: var(--ba-text-dark);
-  font-size: 1rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
-  margin: 0 0 2.5rem;
-}
-
 main > h2 {
   font-family: "Inter", sans-serif;
   font-size: clamp(2rem, 5vw, 3rem);
