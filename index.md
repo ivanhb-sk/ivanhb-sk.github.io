@@ -39,7 +39,7 @@ Based in Bratislava, Slovakia — native Spanish speaker, fluent in English, pro
 British Airways · Jun 2022 – Present · Bratislava
 
 I collaborate closely with sales teams and key accounts to support their marketing and communication needs, ensuring consistency and alignment with British Airways' branding and messaging.  
-  
+
 I also design and deliver a range of external communications, including business updates, product and service news, tactical activities, and trade materials, using tools like Adobe Creative Suite (Photoshop, Illustrator, Premiere Pro), Microsoft Powerpoint and Figma.  
   
 I lead the development and implementation of British Airways’ Travel Partner Connect feedback form, adhering to rigorous accessibility standards, ensuring a seamless user experience for all stakeholders.  
