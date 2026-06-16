@@ -413,8 +413,7 @@ html[data-theme="dark"] h3,
 html[data-theme="dark"] h4,
 html[data-theme="dark"] h5,
 html[data-theme="dark"] h6,
-html[data-theme="dark"] p,
-html[data-theme="dark"] li {
+html[data-theme="dark"] p {
   color: #f0f4f8; /* This color ONLY applies when the dark theme is active! */
 }
 
@@ -438,4 +437,14 @@ html[data-theme="dark"] .site-title:hover,
 html[data-theme="dark"] .site-nav a:hover,
 html[data-theme="dark"] .site-nav a[aria-current="page"] {
   color: #38bdf8;                     /* Electric bright blue accent so active links pop! */
+}
+
+html[data-theme="dark"] li {
+  padding: 0.5rem 1rem;
+  border: 2px solid #f0f4f8;
+  border-radius: 0;
+  font-size: 1rem;
+  font-weight: 600;
+  color: #f0f4f8;
+  background: #0b1326;
 }
