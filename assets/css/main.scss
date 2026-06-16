@@ -417,3 +417,25 @@ html[data-theme="dark"] p,
 html[data-theme="dark"] li {
   color: #f0f4f8; /* This color ONLY applies when the dark theme is active! */
 }
+
+/* --- Sgurgical Dark Mode Overrides for the Header Component --- */
+
+html[data-theme="dark"] .site-header {
+  background: #0b1326;                /* Dark navy background canvas */
+  border-bottom-color: #f0f4f8;       /* Crisp light border line */
+}
+
+html[data-theme="dark"] .site-title {
+  color: #f0f4f8;                     /* Makes your name white/light */
+}
+
+html[data-theme="dark"] .site-nav a {
+  color: #94a3b8;                     /* Muted slate gray for inactive links */
+}
+
+/* Fixes the hover and active page colors in dark mode */
+html[data-theme="dark"] .site-title:hover,
+html[data-theme="dark"] .site-nav a:hover,
+html[data-theme="dark"] .site-nav a[aria-current="page"] {
+  color: #38bdf8;                     /* Electric bright blue accent so active links pop! */
+}
