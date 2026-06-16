@@ -30,7 +30,7 @@ Based in Bratislava, Slovakia — native Spanish speaker, fluent in English, pro
 - Brand communications
 - PowerPoint
 
-## Experience
+## Experience - Last three
 
 ### B2B Communications Executive
 

@@ -14,6 +14,16 @@
   --max-width: 72rem;
 }
 
+/* When data-theme="dark" is injected into the HTML tag, override the variables */
+html[data-theme="dark"] {
+  --ba-bg-page: #0b1326;    /* Deep, dark navy-tinted canvas */
+  --ba-text-dark: #f0f4f8;   /* Clean, soft off-white text */
+  --ba-text-muted: #94a3b8;  /* Readable, muted gray-blue for descriptions */
+  --ba-border: #f0f4f8;      /* Sharp, light structural borders */
+  --ba-navy: #1e293b;        /* Shift navy container backgrounds to a lighter, readable slate */
+  --ba-blue: #38bdf8;        /* Make the branding blue pop safely as a high-contrast accent */
+}
+
 *,
 *::before,
 *::after {
@@ -380,4 +390,19 @@ h1, h2, h3, h4 {
   .hero {
     padding-block: 2.5rem;
   }
+}
+
+.theme-toggle-btn {
+  background: transparent;
+  border: 2px solid var(--ba-border);
+  color: var(--ba-text-dark);
+  padding: 0.4rem 0.6rem;
+  cursor: pointer;
+  font-size: 1rem;
+  border-radius: 0; /* Pure stark brutalist edge */
+  transition: transform 0.1s ease;
+}
+
+.theme-toggle-btn:active {
+  transform: scale(0.95);
 }

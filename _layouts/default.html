@@ -16,6 +16,7 @@
         <a href="{{ '/projects/' | relative_url }}"{% if page.url contains '/projects' %} aria-current="page"{% endif %}>Projects</a>
         <a href="{{ site.author.linkedin }}" target="_blank" rel="noopener noreferrer">LinkedIn</a>
       </nav>
+      <button id="theme-toggle" class="theme-toggle-btn" aria-label="Toggle Dark Mode">🌓</button>
     </div>
   </header>
 
@@ -29,5 +30,26 @@
       <p>&copy; {{ 'now' | date: '%Y' }} {{ site.author.name }}</p>
     </div>
   </footer>
+  <script>
+    const toggleBtn = document.getElementById('theme-toggle');
+    
+    // Check localStorage first so the choice persists across pages
+    const savedTheme = localStorage.getItem('portfolio-theme');
+    if (savedTheme) {
+      document.documentElement.setAttribute('data-theme', savedTheme);
+    }
+  
+    toggleBtn.addEventListener('click', () => {
+      const currentTheme = document.documentElement.getAttribute('data-theme');
+      
+      if (currentTheme === 'dark') {
+        document.documentElement.removeAttribute('data-theme');
+        localStorage.setItem('portfolio-theme', 'light');
+      } else {
+        document.documentElement.setAttribute('data-theme', 'dark');
+        localStorage.setItem('portfolio-theme', 'dark');
+      }
+    });
+  </script>
 </body>
 </html>
