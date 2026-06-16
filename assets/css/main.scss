@@ -178,14 +178,6 @@ main > h1 {
   text-transform: uppercase;
 }
 
-main > p:first-of-type {
-  font-size: clamp(1.25rem, 3vw, 1.75rem);
-  color: var(--ba-text-muted);
-  max-width: 32ch;
-  margin: 0 0 1.5rem;
-  font-weight: 400;
-  line-height: 1.35;
-}
 
 main > h2 {
   font-family: "Inter", sans-serif;
