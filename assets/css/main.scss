@@ -449,9 +449,7 @@ html[data-theme="dark"] li {
   background: #0b1326;
 }
 
-.site-footer {
-  padding: 2.5rem 0;
+html[data-theme="dark"].site-footer {
   border-top: 2px solid #f0f4f8;
   background: #0b1326;
-
 }
