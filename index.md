@@ -74,12 +74,6 @@ I served as a Subject Matter Expert (SME) for catalog-related cases, supporting 
 
 I collaborated with the catalog team to address vendor product and catalog issues, ensuring seamless updates and process improvements.
 
-###  Previous jobs
-
-Commercial Marketing Specialist - HURPE C.B. · Full-time 2012 - 2017 · 5 yrs Granada, Spain
-Mondelēz International logo Accounts payable - Mondelēz International Full time 2011 - 2012 · 1 yr Bratislava, Slovak Republic
-Accounts Payable - Northgate I.S. Full time Jun 2009 - May 2010 · 1 yr Granada, Spain
-
 ## Education
 
 ### Diplomatura — Screenwriting for Film, TV & Theatre
