@@ -406,3 +406,14 @@ h1, h2, h3, h4 {
 .theme-toggle-btn:active {
   transform: scale(0.95);
 }
+
+html[data-theme="dark"] h1,
+html[data-theme="dark"] h2,
+html[data-theme="dark"] h3,
+html[data-theme="dark"] h4,
+html[data-theme="dark"] h5,
+html[data-theme="dark"] h6,
+html[data-theme="dark"] p,
+html[data-theme="dark"] li {
+  color: #f0f4f8; /* This color ONLY applies when the dark theme is active! */
+}
