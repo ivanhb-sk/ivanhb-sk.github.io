@@ -30,7 +30,7 @@ Based in Bratislava, Slovakia — native Spanish speaker, fluent in English, pro
 - Brand communications
 - PowerPoint
 
-<div class="experience">
+<div class="experience" markdown="1">
 
 ## Experience
 
