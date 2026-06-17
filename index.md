@@ -31,6 +31,7 @@ Based in Bratislava, Slovakia — native Spanish speaker, fluent in English, pro
 - PowerPoint
 
 <div class="experience">
+
 ## Experience
 
 **Digital Project Ownership & Communications**
