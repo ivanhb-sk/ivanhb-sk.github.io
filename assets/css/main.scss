@@ -455,3 +455,21 @@ html[data-theme="dark"] .site-footer {
   background: #0b1326;
 
 }
+
+/* Ensure the button is a flexible container for centering */
+.theme-toggle-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px; /* Adjust padding to match your UI density */
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+/* Constrain the SVG icon dimensions */
+.theme-toggle-icon {
+  width: 24px;  /* Forces the layout size regardless of export size */
+  height: 24px;
+  display: block;
+}
