@@ -30,6 +30,7 @@ Based in Bratislava, Slovakia — native Spanish speaker, fluent in English, pro
 - Brand communications
 - PowerPoint
 
+<div class="experience">
 ## Experience
 
 **Digital Project Ownership & Communications**
@@ -44,3 +45,5 @@ Based in Bratislava, Slovakia — native Spanish speaker, fluent in English, pro
 - Educated on motion graphics, video editing and Adobe Experience Manager
 - Mentored teams, acted as SME for catalog issues. Drove efficiency & compliance.
 - Handled finance ops: resolved payables/receivables, implemented procedures across sites. No matter the task I try to be the best at it.
+
+</div>

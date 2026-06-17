@@ -473,3 +473,18 @@ html[data-theme="dark"] .site-footer {
   height: 24px;
   display: block;
 }
+
+/* Your clean, normal bullet list style for experience */
+.experience ul {
+  list-style-type: disc;
+  margin-left: 20px;
+  padding-left: 0;
+}
+
+.experience li {
+  background: none;       /* Strips away any block backgrounds */
+  padding: 0;             /* Resets block padding */
+  margin-bottom: 12px;    /* Gives your paragraphs breathing room */
+  line-height: 1.6;       /* Makes the multi-line text easy to read */
+  display: list-item;     /* Forces it to behave like a standard bullet */
+}
