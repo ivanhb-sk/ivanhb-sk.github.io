@@ -30,9 +30,10 @@ Based in Bratislava, Slovakia — native Spanish speaker, fluent in English, pro
 - Brand communications
 - PowerPoint
 
-<div class="experience" markdown="1">
 
 ## Experience
+
+<div class="experience" markdown="1">
 
 **Digital Project Ownership & Communications**
 - Led Travel Partner Connect content migration and enhancements with Adobe team & devs. Improved usability & accessibility.  
