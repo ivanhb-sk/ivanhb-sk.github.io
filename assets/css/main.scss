@@ -18,7 +18,7 @@ html[data-theme="dark"] {
     --ba-text-dark: #f0f4f8; /* Clean, soft off-white text */
     --ba-text-muted: #94a3b8; /* Readable, muted gray-blue for descriptions */
     --ba-border: #f0f4f8; /* Sharp, light structural borders */
-    --ba-navy: #1e293b; /* Shift navy container backgrounds to a lighter, readable slate */
+    --ba-navy-dark: #1e293b; /* Shift navy container backgrounds to a lighter, readable slate */
     --ba-blue: #38bdf8; /* Make the branding blue pop safely as a high-contrast accent */
 }
 
@@ -143,7 +143,7 @@ main {
     text-transform: uppercase;
 }
 
-.hero .tagline {
+.tagline {
     font-size: clamp(1.25rem, 3vw, 1.75rem);
     color: var(--ba-text-muted);
     max-width: 32ch;
@@ -269,7 +269,7 @@ main > h3:last-of-type + p + p {
 
 .skills li {
     padding: 0.5rem 1rem;
-    border: 2px solid var(--ba-border);
+    border: 2px solid var(--ba-border) !important;
     border-radius: 0;
     font-size: 1rem;
     font-weight: 600;
@@ -285,7 +285,6 @@ main > h3:last-of-type + p + p {
 
 .timeline li {
     padding: 2rem 0;
-    border-bottom: 2px solid var(--ba-border);
 }
 
 .timeline li:last-child {
@@ -465,4 +464,12 @@ html[data-theme="dark"] .site-footer {
     width: 24px; /* Forces the layout size regardless of export size */
     height: 24px;
     display: block;
+}
+
+html[data-theme="dark"] .tagline {
+    color: ffffff;
+}
+
+html[data-theme="dark"] .project-card {
+    background: var(--ba-bg-page);
 }
