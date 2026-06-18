@@ -27,7 +27,7 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.3' # Adjust to match your local ruby version if needed
+          ruby-version: "3.3" # Adjust to match your local ruby version if needed
           bundler-cache: true # runs 'bundle install' and caches gems automatically
       - name: Build with Jekyll
         run: bundle exec jekyll build
@@ -39,7 +39,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps: deployment.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
     steps:
