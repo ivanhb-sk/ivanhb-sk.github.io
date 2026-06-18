@@ -1,8 +1,6 @@
 ---
 ---
 
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap");
-
 :root {
     --ba-navy: #071d49;
     --ba-blue: #132954;
@@ -33,6 +31,7 @@ html[data-theme="dark"] {
 html {
     font-size: 16px;
     scroll-behavior: smooth;
+    scrollbar-gutter: stable;
 }
 
 body {
@@ -222,14 +221,8 @@ main > ul {
     gap: 0.75rem;
 }
 
-main > ul li {
-    padding: 0.5rem 1rem;
-    border: 2px solid var(--ba-border);
-    border-radius: 0;
-    font-size: 1rem;
-    font-weight: 600;
-    color: var(--ba-text-dark);
-    background: var(--ba-white);
+main li {
+    font-size: 1.125rem; /* Equalize font size with main > p */
 }
 
 main > h3 {
@@ -424,7 +417,7 @@ html[data-theme="dark"] p {
     color: #f0f4f8; /* This color ONLY applies when the dark theme is active! */
 }
 
-/* --- Sgurgical Dark Mode Overrides for the Header Component --- */
+/* --- Surgical Dark Mode Overrides for the Header Component --- */
 
 html[data-theme="dark"] .site-header {
     background: #0b1326; /* Dark navy background canvas */
@@ -436,24 +429,18 @@ html[data-theme="dark"] .site-title {
 }
 
 html[data-theme="dark"] .site-nav a {
-    color: #94a3b8; /* Muted slate gray for inactive links */
+    color: #ffffff; /* Muted slate gray for inactive links */
 }
 
 /* Fixes the hover and active page colors in dark mode */
 html[data-theme="dark"] .site-title:hover,
 html[data-theme="dark"] .site-nav a:hover,
 html[data-theme="dark"] .site-nav a[aria-current="page"] {
-    color: #38bdf8; /* Electric bright blue accent so active links pop! */
+    color: #ffffff; /* Electric bright blue accent so active links pop! */
 }
 
-html[data-theme="dark"] li {
-    padding: 0.5rem 1rem;
-    border: 2px solid #f0f4f8;
-    border-radius: 0;
-    font-size: 1rem;
-    font-weight: 600;
-    color: #f0f4f8;
-    background: #0b1326;
+html[data-theme="dark"] .timeline li {
+    border-bottom: none; /* Removed border for dark mode li in timeline */
 }
 
 html[data-theme="dark"] .site-footer {
@@ -478,21 +465,4 @@ html[data-theme="dark"] .site-footer {
     width: 24px; /* Forces the layout size regardless of export size */
     height: 24px;
     display: block;
-}
-
-/* Your clean, normal bullet list style for experience */
-.experience ul {
-    list-style-type: disc;
-    margin-left: 20px;
-    padding-left: 0;
-}
-
-.experience li {
-    background: none; /* Strips away any block backgrounds */
-    padding: 0; /* Resets block padding */
-    margin-bottom: 12px; /* Gives your paragraphs breathing room */
-    line-height: 1.6; /* Makes the multi-line text easy to read */
-    display: list-item; /* Forces it to behave like a standard bullet */
-    font-size: 1rem;
-    border: none;
 }
