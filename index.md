@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-# Ivan Hurtado
+# Pixels with purpose
 
-Pixels with purpose. Motion, video, UX, and brand communications for teams that care about craft.
+Motion, video, UX, and brand communications for teams that care about craft.
 
 Visual & motion designer / Digital Project Owner
 
@@ -36,16 +36,15 @@ Based in Bratislava, Slovakia — native Spanish speaker, fluent in English, pro
 <div class="experience" markdown="1">
 
 **Digital Project Ownership & Communications**
-- Led Travel Partner Connect content migration and enhancements with Adobe team & devs. Improved usability & accessibility.  
-- Designed and delivered branded comms, feedback forms, content portals using Adobe Suite, Figma, PowerPoint.
+- Orchestrated end-to-end content migration and UX enhancements for the Travel Partner Connect platform, collaborating closely with Adobe engineering and development teams to significantly elevate platform usability and WCAG accessibility standards.  
+- Designed and deployed comprehensive communication ecosystems, including branded corporate communications, interactive feedback loops, and centralized content portals using Figma, Adobe Creative Suite, and advanced layouts.
 
 **Visual & Motion Design**
-- Created high-impact assets: banners, landing pages, motion WakeScreens, Kindle units. Boosted engagement, Travel events videos, Internal assets.
-- Delivered wireframes, mockups & presentations for cross-functional pitches. Streamlined workflows.
+- Produced high-impact digital design and motion assets—including strategic campaign banners, dynamic landing pages, motion WakeScreens, and specialized Kindle marketing units, consistently driving user engagement across key travel partner initiatives and event video productions.
+- Translated complex business requirements into high-fidelity wireframes, mockups, and cross-functional pitch decks, bridging the gap between creative vision and technical execution while streamlining internal design workflows.
 
 **Operations & Leadership**
-- Educated on motion graphics, video editing and Adobe Experience Manager
-- Mentored teams, acted as SME for catalog issues. Drove efficiency & compliance.
-- Handled finance ops: resolved payables/receivables, implemented procedures across sites. No matter the task I try to be the best at it.
+- Served as Subject Matter Expert (SME) and internal advisor for complex digital asset catalogs, mentoring cross-functional teams and scaling internal capabilities in motion graphics, video production, and Adobe Experience Manager (AEM).
+- Optimized operational efficiency and compliance by overseeing critical financial operations (Accounts Payable/Receivable), implementing standardized workflows that stabilized cross-site administration and minimized process friction.
 
 </div>

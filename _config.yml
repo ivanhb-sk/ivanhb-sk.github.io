@@ -1,4 +1,4 @@
-title: Ivan H.
+title: Ivan Hurtado
 description: Visual & Motion Designer — pixels with purpose.
 url: "https://ivanhurba.github.io"
 baseurl: ""
@@ -12,6 +12,6 @@ exclude:
   - README.md
 
 author:
-  name: Ivan H.
-  location: Bratislava, Slovakia
+  name: Ivan Hurtado.
+  location: Slovakia
   linkedin: https://www.linkedin.com/in/ivanhurba/

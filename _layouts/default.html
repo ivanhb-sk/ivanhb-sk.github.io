@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -6,6 +6,7 @@
   <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
   <meta name="description" content="{{ page.description | default: site.description }}">
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  <link rel="icon" type="image/png" href="{{ '/assets/images/favicon.png' | relative_url }}">
 </head>
 <body>
   <header class="site-header">
@@ -17,7 +18,7 @@
         <a href="{{ site.author.linkedin }}" target="_blank" rel="noopener noreferrer">LinkedIn</a>
       </nav>
       <button id="theme-toggle" class="theme-toggle-btn" aria-label="Toggle Dark Mode">
-        <img src="assets/images/dark-mode-switch.svg" alt="" class="theme-toggle-icon" aria-hidden="true" />
+          <img src="{{ '/assets/images/dark-mode-switch.svg' | relative_url }}" alt="" class="theme-toggle-icon" aria-hidden="true" />
       </button>
     </div>
   </header>
@@ -34,16 +35,16 @@
   </footer>
   <script>
     const toggleBtn = document.getElementById('theme-toggle');
-    
+
     // Check localStorage first so the choice persists across pages
     const savedTheme = localStorage.getItem('portfolio-theme');
     if (savedTheme) {
       document.documentElement.setAttribute('data-theme', savedTheme);
     }
-  
+
     toggleBtn.addEventListener('click', () => {
       const currentTheme = document.documentElement.getAttribute('data-theme');
-      
+
       if (currentTheme === 'dark') {
         document.documentElement.removeAttribute('data-theme');
         localStorage.setItem('portfolio-theme', 'light');
